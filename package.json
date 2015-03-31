@@ -1,0 +1,41 @@
+{
+  "name": "subsy",
+  "version": "1.0.0",
+  "description": "A string replacement tool to help you replace text with JSON.",
+  "main": "dist/subtext.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/staticfunction/subsy.git"
+  },
+  "keywords": [
+    "gulp-replace",
+    "string",
+    "string.replace",
+    "replace",
+    "text",
+    "substitute",
+    "json"
+  ],
+  "author": "jamesroland@dwimmyfactory.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/staticfunction/subtext/issues"
+  },
+  "homepage": "https://github.com/staticfunction/subtext",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-filter": "^2.0.2",
+    "gulp-insert": "^0.4.0",
+    "gulp-replace": "^0.5.3",
+    "gulp-typescript": "^2.5.0",
+    "merge2": "^0.3.2",
+    "should": "^5.2.0",
+    "typescript": "^1.4.1"
+  }
+}
