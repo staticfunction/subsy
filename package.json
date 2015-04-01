@@ -2,7 +2,7 @@
   "name": "subsy",
   "version": "1.0.0",
   "description": "A string replacement tool to help you replace text with JSON.",
-  "main": "dist/subtext.js",
+  "main": "dist/subsy.js",
   "directories": {
     "test": "test"
   },
