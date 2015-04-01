@@ -1,4 +1,4 @@
-# Subtext
+# Subsy
 A tool that allows you to replace strings with values from JSON object.
 
 ## Install
